@@ -1450,6 +1450,8 @@ nC=var[28]*(var[9]+var[10])+var[27]*(var[19]+var[18]+var[17])+var[11]
 
 print('nC =', nC)
 
+print('nC =', nC)
+
 #Auxiliary manual method for specifying moles of elements comprising system
 #nSi=4.79
 #nMg=4.7655
